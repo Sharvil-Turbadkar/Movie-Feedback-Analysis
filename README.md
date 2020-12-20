@@ -28,5 +28,3 @@ To evaluate a movie’s success, we used logistic regression and ensemble models
 2. Contrary to popular beliefs audience and critic reviews are very alike 
 3. Average movie ratings have reached an all time low at the turn of the Millenium and have seen a steady increase since 
 4. Studios that make R Rated movies are likely to flop 
-
-
