@@ -4,7 +4,8 @@ Conducted a Case study on Rotten Tomato Movie Reviews
 ## Heroku App Link:https://movie-feedback-analysis.herokuapp.com/
 
 ## Domain:Movie Industry 
- <img src= "images/IST_707_Team_2_Poster.png" width="500" title="Poster">
+ 
+<img src= "images/IST_707_Team_2_Poster.png" width="500" title="Poster">
 
 ## Client:Rotten Tomato
 ## Abstract
